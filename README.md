@@ -1,2 +1,3 @@
-# code-sync
-Coding solutions automatically synced from dotpush extension - https://dotpush.ca/
+# Leetcode Solutions Done in Python
+
+by Me 
